@@ -1,0 +1,5 @@
+name: BlockLimiter
+version: '${project.version}'
+main: dev.admitiendo.blocklimiter.BlockLimiter
+api-version: '1.20'
+author: admitiendo
